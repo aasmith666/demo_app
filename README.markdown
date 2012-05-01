@@ -1,2 +1,2 @@
 Allison Smith
-Ruby on Rails - Git Lab (formerly Demo_app)
+Ruby on Rails class - Git Lab (still known as Demo_app)
