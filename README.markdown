@@ -1,3 +1,2 @@
 Allison Smith
-Ruby on Rails - Chapter 2
-Demo_app
+Ruby on Rails - Git Lab (formerly Demo_app)
